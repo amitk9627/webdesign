@@ -1,0 +1,26 @@
+#topDiv{
+    background-color: powderblue;
+    height:200px;
+    width:200px;
+    padding:20px;
+    border:solid 10px;
+   
+}
+#midDiv{
+    background-color: red;
+    height:200px;
+    width:200px;
+    border:solid 20px;
+    margin-left:260px;
+
+    
+}
+#bottumDiv{
+    background-color: blue;
+    height:200px;
+    width:200px;
+    border:solid 10px;
+    margin-left:500px;
+    
+  
+}
